@@ -1,4 +1,4 @@
-# TIC-TAC-TOE USING REACT
+# Tic-Tac-Toe Using React
 
 ## About The Project 
 **a tic-tac-toe game that:**
